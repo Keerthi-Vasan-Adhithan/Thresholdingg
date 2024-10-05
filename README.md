@@ -1,3 +1,5 @@
+# Experiment - 8
+## Date : 
 # THRESHOLDING
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
@@ -22,7 +24,8 @@ Store the results of each thresholding operation in a list for easy visualizatio
 ### Step5:
 Display the original grayscale image and the thresholded images side by side using Matplotlib to compare results.
 
-## Program
+## Program:
+
 ### Developed By : KEERTHI VASAN A
 ### Reg No : 212222240048
 
